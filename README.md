@@ -1,3 +1,14 @@
+# Modified Version of MSummarizer
+This is a modified version of MSummarizer. 
+
+original repository: https://github.com/microsoft/MSummarizer
+
+# Tasks 
+일단 colab에서 돌아갈 수 있게 버전은 맞춤 
+
+Data processing (to do)
+Main.py 에서 상위 경로 못 잡음(to do)
+
 # MSummarizer
 
 MSummarizer is a research project on summarization tasks. It includes some advanced techniques for solving summarization tasks (e.g., architecture design, data augmentation, datasets and etc).
